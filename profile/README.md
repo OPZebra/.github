@@ -8,7 +8,6 @@ OPZebra ist ein Netzwerk, welches von <a href="https://github.com/Fuerstlicher">
 
 + Bedwars Gilde auf dem Hypixel Minecraft Server
 + Community Discord
-+ TikTok Channel
 + Mod Mail Discord Bot
 + Moderation Discord Bot
 + Globalchat Discord Bot
